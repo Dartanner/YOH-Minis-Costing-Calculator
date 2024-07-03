@@ -1,0 +1,16 @@
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\bin\Debug\net8.0-windows\YOH Minis Costing Calculator.exe
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\bin\Debug\net8.0-windows\YOH Minis Costing Calculator.deps.json
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\bin\Debug\net8.0-windows\YOH Minis Costing Calculator.runtimeconfig.json
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\bin\Debug\net8.0-windows\YOH Minis Costing Calculator.dll
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\bin\Debug\net8.0-windows\YOH Minis Costing Calculator.pdb
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\obj\Debug\net8.0-windows\YOH_Minis_Costing_Calculator.Form1.resources
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\obj\Debug\net8.0-windows\YOH Minis Costing Calculator.csproj.GenerateResource.cache
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\obj\Debug\net8.0-windows\YOH Minis Costing Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\obj\Debug\net8.0-windows\YOH Minis Costing Calculator.AssemblyInfoInputs.cache
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\obj\Debug\net8.0-windows\YOH Minis Costing Calculator.AssemblyInfo.cs
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\obj\Debug\net8.0-windows\YOH Minis Costing Calculator.csproj.CoreCompileInputs.cache
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\obj\Debug\net8.0-windows\YOH Minis Costing Calculator.dll
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\obj\Debug\net8.0-windows\refint\YOH Minis Costing Calculator.dll
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\obj\Debug\net8.0-windows\YOH Minis Costing Calculator.pdb
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\obj\Debug\net8.0-windows\YOH Minis Costing Calculator.genruntimeconfig.cache
+C:\Users\Alun\source\repos\YOH Minis Costing Calculator\YOH Minis Costing Calculator\obj\Debug\net8.0-windows\ref\YOH Minis Costing Calculator.dll
