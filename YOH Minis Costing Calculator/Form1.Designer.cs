@@ -130,7 +130,7 @@
             // label6
             // 
             label6.AutoSize = true;
-            label6.Location = new Point(39, 242);
+            label6.Location = new Point(12, 236);
             label6.Name = "label6";
             label6.Size = new Size(134, 15);
             label6.TabIndex = 10;
@@ -139,7 +139,7 @@
             // label7
             // 
             label7.AutoSize = true;
-            label7.Location = new Point(35, 265);
+            label7.Location = new Point(12, 269);
             label7.Name = "label7";
             label7.Size = new Size(122, 15);
             label7.TabIndex = 11;
@@ -163,7 +163,8 @@
             Controls.Add(label2);
             Controls.Add(label1);
             Name = "Form1";
-            Text = "Form1";
+            Text = "YOH Calculator";
+            Load += Form1_Load;
             ResumeLayout(false);
             PerformLayout();
         }

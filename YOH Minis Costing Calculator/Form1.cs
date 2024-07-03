@@ -18,8 +18,8 @@ namespace YOH_Minis_Costing_Calculator
             InitializeComponent();
             label7.Text = String.Empty;
             textBox1.Text = resinCost.ToString();
-            textBox2.Text = timeCost.ToString(); 
-            textBox3.Text = consumablesCost.ToString(); 
+            textBox2.Text = timeCost.ToString();
+            textBox3.Text = consumablesCost.ToString();
             textBox4.Text = margin.ToString();
             textBox5.Text = VAT.ToString();
 
@@ -60,7 +60,7 @@ namespace YOH_Minis_Costing_Calculator
                 text.Text = string.Empty;
             }
             EstimatePrice();
-           
+
         }
 
         private void EstimatePrice()
@@ -125,6 +125,11 @@ namespace YOH_Minis_Costing_Calculator
         private void textBox5_TextChanged(object sender, EventArgs e)
         {
             HandleIntForm(sender, ref VAT);
+        }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }
